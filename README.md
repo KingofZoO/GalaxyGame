@@ -1,6 +1,6 @@
 # GalaxyGame
 A simple 2D galaxy game
-# Discription
+# Description
 This project was made with Unity special for Android OS. 
 
 The gameplay consists of an endless waves of enemies and getting scores for kills. After your energy shield (blue scale) down to 0 you'll lose 1 health point. After losing 3 health points the game will be ended. 
